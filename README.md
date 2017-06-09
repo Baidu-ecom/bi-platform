@@ -1,5 +1,5 @@
 由于公司对开源项目开源流程以及代码规范作出调整，暂时撤回BIPlatform开源项目相关代码，后续会将代码迁移到：
-https://github.com/baidu/bi-paltform
+https://github.com/baidu/BIPlatform
 继续开源。感谢各位对BIPlatform的支持。
 
 
